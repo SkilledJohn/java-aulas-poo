@@ -1,7 +1,7 @@
 package java.aulas.poo.cabeça;
 
 public class Olho {
-    String corIris;
-    float diametroOlho;
+    public String corIris;
+    public float diametroOlho;
     boolean cego;
 }

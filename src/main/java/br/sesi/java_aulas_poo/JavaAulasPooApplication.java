@@ -1,4 +1,4 @@
-package br.sesi.jvsg.java_aulas_poo;
+package br.sesi.java_aulas_poo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
